@@ -1,6 +1,6 @@
-name = "OpticalPropagation"
-uuid = "bd2a9720-0cf4-11ea-3d1a-97ce67aae37d"
-authors = ["miRoox"]
+name = "AOpticalPropagation"
+uuid = "38a2852e-dec1-4bb6-bde2-0b24334dc9c2"
+authors = ["rdungee"]
 version = "0.2.0"
 
 [deps]
